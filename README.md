@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning lua
 - 📫 How to reach me: Discord: raxeees
 - ⚡ Fun fact: shy, friendly
+- TEST TEDT
 
 <!---
 raxeees/raxeees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
