@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raxeees
 - 👀 I’m interested in learning Lua & HTML
 - 🌱 I’m currently learning lua
-- 📫 How to reach me on discord: raxeees
+- 📫 How to reach me: Discord: raxeees
 - ⚡ Fun fact: shy, friendly
 
 <!---
